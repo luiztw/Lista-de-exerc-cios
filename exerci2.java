@@ -1,4 +1,4 @@
-package EXERC2;
+
 
 import java.util.Scanner;
 
