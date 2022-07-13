@@ -1,5 +1,5 @@
 
-public class exerc1_pag33 {
+public class exerc4 {
 
     public static void main(String[] args) {
 
