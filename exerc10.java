@@ -6,20 +6,20 @@ public class exerc10 {
     public static void main(String[] args) {
 
         String dia = JOptionPane.showInputDialog(null,"Digite número entre 1 e 7");
-
+        
         if (dia != null) {
             try {
-
+                
                 int diadasemana = Integer.parseInt(dia);
-
+                
                 if (diadasemana == 1)
-                    dia = "Domingp";
+                    dia = "Domingo";
 
                 else if (diadasemana == 2)
                     dia = "Segunda";
 
                 else if (diadasemana == 3)
-                    dia = "Tercça";
+                    dia = "Terça";
 
                 else if (diadasemana == 4)
                     dia = "Quarta";
