@@ -5,7 +5,7 @@ public class exerc10 {
 
     public static void main(String[] args) {
 
-        String dia = JOptionPane.showMessageDialog(null,"Digite número entre 1 e 7");
+        String dia = JOptionPane.showInputDialog(null,"Digite número entre 1 e 7");
 
         if (dia != null) {
             try {
